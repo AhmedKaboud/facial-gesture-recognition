@@ -1,0 +1,44 @@
+C:\Users\Kaboud\Desktop\Facial Gesture Recognition\bin\Debug\Facial Gesture Recognition.exe.config
+C:\Users\Kaboud\Desktop\Facial Gesture Recognition\bin\Debug\Facial Gesture Recognition.exe
+C:\Users\Kaboud\Desktop\Facial Gesture Recognition\bin\Debug\Facial Gesture Recognition.pdb
+C:\Users\Kaboud\Desktop\Facial Gesture Recognition\obj\Debug\Facial Gesture Recognition.csprojResolveAssemblyReference.cache
+C:\Users\Kaboud\Desktop\Facial Gesture Recognition\obj\Debug\Facial_Gesture_Recognition.Properties.Resources.resources
+C:\Users\Kaboud\Desktop\Facial Gesture Recognition\obj\Debug\Facial Gesture Recognition.csproj.GenerateResource.Cache
+C:\Users\Kaboud\Desktop\Facial Gesture Recognition\obj\Debug\Facial Gesture Recognition.exe
+C:\Users\Kaboud\Desktop\Facial Gesture Recognition\obj\Debug\Facial Gesture Recognition.pdb
+C:\Users\Kaboud\Desktop\Facial Gesture Recognition\obj\Debug\Facial_Gesture_Recognition.MainForm.resources
+C:\Users\Kaboud\Desktop\Facial Gesture Recognition\obj\Debug\Facial_Gesture_Recognition.AccuracyForm.resources
+C:\Users\Kaboud\Desktop\Facial Gesture Recognition\obj\Debug\Facial_Gesture_Recognition.TestForm.resources
+J:\Facial Gesture Recognition\bin\Debug\Facial Gesture Recognition.exe.config
+J:\Facial Gesture Recognition\obj\Debug\Facial Gesture Recognition.exe
+J:\Facial Gesture Recognition\obj\Debug\Facial Gesture Recognition.pdb
+J:\Facial Gesture Recognition\bin\Debug\Facial Gesture Recognition.exe
+J:\Facial Gesture Recognition\bin\Debug\Facial Gesture Recognition.pdb
+J:\Facial Gesture Recognition\obj\Debug\Facial Gesture Recognition.csprojResolveAssemblyReference.cache
+J:\Facial Gesture Recognition\obj\Debug\Facial_Gesture_Recognition.AccuracyForm.resources
+J:\Facial Gesture Recognition\obj\Debug\Facial_Gesture_Recognition.MainForm.resources
+J:\Facial Gesture Recognition\obj\Debug\Facial_Gesture_Recognition.Properties.Resources.resources
+J:\Facial Gesture Recognition\obj\Debug\Facial_Gesture_Recognition.TestForm.resources
+J:\Facial Gesture Recognition\obj\Debug\Facial Gesture Recognition.csproj.GenerateResource.Cache
+E:\Gam3a\4th Year\Pattern recognition\project\Facial Gesture Recognition\bin\Debug\Facial Gesture Recognition.exe.config
+E:\Gam3a\4th Year\Pattern recognition\project\Facial Gesture Recognition\obj\Debug\Facial Gesture Recognition.exe
+E:\Gam3a\4th Year\Pattern recognition\project\Facial Gesture Recognition\obj\Debug\Facial Gesture Recognition.pdb
+E:\Gam3a\4th Year\Pattern recognition\project\Facial Gesture Recognition\bin\Debug\Facial Gesture Recognition.exe
+E:\Gam3a\4th Year\Pattern recognition\project\Facial Gesture Recognition\bin\Debug\Facial Gesture Recognition.pdb
+E:\Gam3a\4th Year\Pattern recognition\project\Facial Gesture Recognition\obj\Debug\Facial Gesture Recognition.csprojResolveAssemblyReference.cache
+E:\Gam3a\4th Year\Pattern recognition\project\Facial Gesture Recognition\obj\Debug\Facial_Gesture_Recognition.AccuracyForm.resources
+E:\Gam3a\4th Year\Pattern recognition\project\Facial Gesture Recognition\obj\Debug\Facial_Gesture_Recognition.MainForm.resources
+E:\Gam3a\4th Year\Pattern recognition\project\Facial Gesture Recognition\obj\Debug\Facial_Gesture_Recognition.Properties.Resources.resources
+E:\Gam3a\4th Year\Pattern recognition\project\Facial Gesture Recognition\obj\Debug\Facial_Gesture_Recognition.TestForm.resources
+E:\Gam3a\4th Year\Pattern recognition\project\Facial Gesture Recognition\obj\Debug\Facial Gesture Recognition.csproj.GenerateResource.Cache
+E:\Study\4th Year\Pattern recognition\Facial Gesture Recognition\bin\Debug\Facial Gesture Recognition.exe.config
+E:\Study\4th Year\Pattern recognition\Facial Gesture Recognition\obj\Debug\Facial Gesture Recognition.exe
+E:\Study\4th Year\Pattern recognition\Facial Gesture Recognition\obj\Debug\Facial Gesture Recognition.pdb
+E:\Study\4th Year\Pattern recognition\Facial Gesture Recognition\bin\Debug\Facial Gesture Recognition.exe
+E:\Study\4th Year\Pattern recognition\Facial Gesture Recognition\bin\Debug\Facial Gesture Recognition.pdb
+E:\Study\4th Year\Pattern recognition\Facial Gesture Recognition\obj\Debug\Facial Gesture Recognition.csprojResolveAssemblyReference.cache
+E:\Study\4th Year\Pattern recognition\Facial Gesture Recognition\obj\Debug\Facial_Gesture_Recognition.AccuracyForm.resources
+E:\Study\4th Year\Pattern recognition\Facial Gesture Recognition\obj\Debug\Facial_Gesture_Recognition.MainForm.resources
+E:\Study\4th Year\Pattern recognition\Facial Gesture Recognition\obj\Debug\Facial_Gesture_Recognition.Properties.Resources.resources
+E:\Study\4th Year\Pattern recognition\Facial Gesture Recognition\obj\Debug\Facial_Gesture_Recognition.TestForm.resources
+E:\Study\4th Year\Pattern recognition\Facial Gesture Recognition\obj\Debug\Facial Gesture Recognition.csproj.GenerateResource.Cache
